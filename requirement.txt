@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+python-multipart
+groq
